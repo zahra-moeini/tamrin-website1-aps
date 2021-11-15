@@ -39,3 +39,15 @@
 .footer{
     text-align: center;   
 }
+.table{
+    overflow: hidden;
+    margin-top: 20px;  
+    width: 1000px;
+    border:1px solid black; 
+}
+
+@media screen and (max-width:1400px){
+    .cartha{
+        margin-top: 20px;
+    }
+}
