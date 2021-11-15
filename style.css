@@ -1,3 +1,4 @@
+
 .navbar{
    display: flex;
    justify-content: space-around;
@@ -39,11 +40,21 @@
 .footer{
     text-align: center;   
 }
+
+
+
 .table{
+   text-align: center;
     overflow: hidden;
     margin-top: 20px;  
     width: 1000px;
     border:1px solid black; 
+    
+}
+
+.pharo{
+    display: flex;
+    
 }
 
 @media screen and (max-width:1400px){
